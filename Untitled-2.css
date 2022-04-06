@@ -1,0 +1,63 @@
+body{
+    background-image:url('picture.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.bio{
+    color: black;
+    font-style: oblique;
+    margin-left:25%;
+}
+.name{
+    color: bisque;
+    font-style: oblique;
+    margin-left:auto;
+    text-align: center;
+
+}
+.info{ width: 480px;
+	background: #808080;
+	padding: 40px;
+	text-align: justify;
+	margin: auto;
+	margin-top: 0%;
+	font-family: 'Century Gothic',sans-serif;}
+	
+img {border-style: groove;
+	border-color: blanchedalmond;
+	border-width:15px;
+	margin-left: 150px;
+	margin-top: none;
+	margin-bottom: 5px;
+	border-radius: 100%;
+	}
+.about{
+	text-align: left;
+}
+.age{
+	text-align: left;
+}
+.birth {
+	text-align: left;
+}
+.place{
+	text-align: left;
+}
+.educ{
+	text-align: left;
+}
+.second{
+	text-align: left;
+}
+.elem{
+    text-align: left;
+}
+.prof{
+    text-align: left;
+}
+.personal{
+    text-align: left;
+}
+.inter{
+    text-align: left;
+}
